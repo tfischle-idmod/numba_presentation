@@ -22,5 +22,8 @@
 
 ## References
 [1] https://developer.nvidia.com/blog/numba-python-cuda-acceleration/
+
 [2] https://www.youtube.com/watch?v=-4tD8kNHdXs
+
 [3] https://numba.pydata.org/
+
