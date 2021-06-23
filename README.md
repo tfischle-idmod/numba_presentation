@@ -1,4 +1,4 @@
-# Numba presenation in a Jupyter notebook 
+# Numba presentation in a Jupyter notebook 
 
 ## Motivation
 - Significantly speeds up performance
